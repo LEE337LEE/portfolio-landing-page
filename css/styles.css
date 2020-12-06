@@ -32,3 +32,6 @@ h1 {
   font-size: xx-large;
   font-weight: bolder;
 }
+.about.img {
+  float:right
+}
