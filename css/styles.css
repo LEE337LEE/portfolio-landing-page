@@ -5,7 +5,7 @@ img {
   border: 1px solid #ddd;
   border-radius: 50px;
   padding: 5px;
-  width: 500px;}
+  width: 300px;}
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
@@ -17,7 +17,7 @@ background-color: darkcyan;
 }
 .footer{
   position: relative;
-  background-color: blue;
+  background-color:darkcyan;
   border-bottom-color: blueviolet;
 }
 .span{
@@ -25,4 +25,7 @@ background-color: darkcyan;
 }
 header {
 background-color: rgb(80, 145, 145);
+}
+h1 {
+  text-align: center;
 }
